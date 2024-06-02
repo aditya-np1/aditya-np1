@@ -20,12 +20,12 @@ Here are some ideas to get you started:
 Reach Out To Me :
 <p align='center'>
  <a href="www.linkedin.com/in/aditya-panchal-learning100">
-    <img  alt="Linkedin" src="https://github.com/aditya-np1/aditya-np1/assets/97782361/a15c5b26-7602-4cf6-a3f8-c61c9b1f81df" />
+    Linkedin
   </a>&nbsp;&nbsp;
   <a href="adityajsn1299@gmail.com">
-  <img alt="EmailId" src="https://img.shields.io/github/stars/alexandresanlim/Badges4-README.md-Profile?style=for-the-badge">
-</a>&nbsp;&nbsp;
-</p>
+   adityajsn1299@gmail.com
+  </a>&nbsp;&nbsp;
+ </p>
 
 Ask me about:
 Innovation
