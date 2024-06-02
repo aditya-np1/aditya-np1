@@ -27,8 +27,7 @@ Reach Out To Me :
   </a>&nbsp;&nbsp;
  </p>
 
-<p>Ask me about:</p>
-
+<p><b>Ask me about:</b></p>
 <p>Innovation</p>
 <p>Coding</p>
 <p>Algorithm designing and Research</p>
