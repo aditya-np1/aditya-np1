@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Reach Out To Me :
-<p align='center'>
+<p>
  <a href="www.linkedin.com/in/aditya-panchal-learning100">
     Linkedin
   </a>&nbsp;&nbsp;
