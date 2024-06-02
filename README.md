@@ -27,14 +27,15 @@ Reach Out To Me :
   </a>&nbsp;&nbsp;
  </p>
 
-Ask me about:
-Innovation
-Codeing
-Algorithm designing and Research
-Error Solving
-Secure database architecture for web development
-Any thing Related To Technology and World Problem Solving
-How World Can Be More Better WRT Help of Technology and Our Code!!
+<p>Ask me about:</p>
 
+<p>Innovation</p>
+<p>Coding</p>
+<p>Algorithm designing and Research</p>
+<p>Error Solving</p>
+<p>Secure database architecture for web development</p>
+<p>Any thing Related To Technology and World Problem Solving</p>
+<p>How World Can Be More Better WRT Help of Technology and Our Code!!</p>
 
-Thank you for Visiting!!
+&nbsp;&nbsp;
+<p>Thank you for Visiting!!</p>
