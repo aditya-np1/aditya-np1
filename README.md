@@ -26,9 +26,8 @@ Reach Out To Me :
    adityajsn1299@gmail.com
   </a>&nbsp;&nbsp;
  </p>
-Resume : 
-<p>
- <a href="https://drive.google.com/file/d/1VDMijhm_xiCR3afDiP_gcXlmq6n_1rNK/view?usp=sharing">Who i'm?</a>
+ <p>
+ <a href="https://drive.google.com/file/d/1VDMijhm_xiCR3afDiP_gcXlmq6n_1rNK/view?usp=sharing">Resume</a>
 </p>
 
 <p><b>Ask me about:</b></p>
@@ -41,4 +40,5 @@ Resume :
 <p>How World Can Be More Better WRT Help of Technology and Our Code!!</p>
 
 &nbsp;&nbsp;
+
 <p>Thank you for Visiting!!</p>
