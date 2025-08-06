@@ -27,7 +27,7 @@ Reach Out To Me :
   </a>&nbsp;&nbsp;
  </p>
  <p>
- <a href="https://drive.google.com/file/d/1VDMijhm_xiCR3afDiP_gcXlmq6n_1rNK/view?usp=sharing">Resume</a>
+ <a href="https://drive.google.com/file/d/10htMCUotF8GSzi0xU09ZZh1BorQ5QkR4/view?usp=sharing">Resume</a>
 </p>
 
 <p><b>Ask me about:</b></p>
