@@ -2,8 +2,8 @@
 
 I Create algorithms and logic structures to design web applications and secure databases. 
 These solutions empower individuals and communities to tackle critical social challenges.
-I am driven to analyze and re-evaluate application architecture to implement the most effective and scalable solutions
-, with a core focus on enhancing user experience.
+I am driven to analyze and re-evaluate application architecture to implement the most effective and scalable solutions,
+with a core focus on enhancing user experience.
 I thrive on optimizing existing development processes to improve efficiency from initial concept to final release.
 
 <!--
@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Let's Connect togather to Exlore and Learn!! :
+Let's Connect togather to Learn and Explore  !! :
 <p>
  <a href="www.linkedin.com/in/aditya-panchal-learning100">
     Linkedin
@@ -33,6 +33,16 @@ Let's Connect togather to Exlore and Learn!! :
  <a href="https://drive.google.com/file/d/10htMCUotF8GSzi0xU09ZZh1BorQ5QkR4/view?usp=sharing">Resume</a>
 </p>
 
+<p><b>Things I have Worked and Proficient:</b></p>
+<p><b>Programming Languages:</b> C#, Java, JavaScript, SQL</p>
+<p><b>Frontend Development:</b> Angular, jQuery, Bootstrap</p>
+<p><b>Backend Development:</b> ASP.NET, Node.js</p>
+<p><b>Databases:</b> Microsoft SQL Server, MySQL</p>
+<p><b>Tools & Platforms:</b> Git, Visual Studio, Postman, SourceTree, IIS, PhpMyAdmin</p>
+<p><b>Domain Experience:</b> Financial Technology (FinTech), Capital Markets (IPO, Mutual Funds)</p
+<p><b>SoftSkill:</b> Communication, Organizing and Scheduling Task to meet bettee Deadlines,
+ Creating Better Work culture, Help and sharing Knowledge To grow Togather</p>
+                                                                                                
 <p><b>Ask me about:</b></p>
 <p>Innovation</p>
 <p>Coding</p>
