@@ -40,8 +40,9 @@ Let's Connect togather to Learn and Explore  !! :
 <p><b>Databases:</b> Microsoft SQL Server, MySQL</p>
 <p><b>Tools & Platforms:</b> Git, Visual Studio, Postman, SourceTree, IIS, PhpMyAdmin</p>
 <p><b>Domain Experience:</b> Financial Technology (FinTech), Capital Markets (IPO, Mutual Funds)</p
-<p><b>SoftSkill:</b> Communication, Organizing and Scheduling Task to meet bettee Deadlines,
- Creating Better Work culture, Help and sharing Knowledge To grow Togather</p>
+<p><b>SoftSkill:</b> Communication, Collaboration, Task Management<br/>
+&nbsp; Writing clean, optimized code aligned with latest industry best practices</p>
+
                                                                                                 
 <p><b>Ask me about:</b></p>
 <p>Innovation</p>
