@@ -48,7 +48,7 @@ Let's Connect togather to Learn and Explore  !! :
 <p>Innovation</p>
 <p>Coding</p>
 <p>Algorithm designing and Research</p>
-<p>Error Solving</p>
+<p>Problem Solving</p>
 <p>Secure database architecture for web development</p>
 <p>Any thing Related To Technology and World Problem Solving</p>
 <p>How World Can Be More Better WRT Help of Technology and Our Code!!</p>
