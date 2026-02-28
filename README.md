@@ -30,7 +30,7 @@ Let's Connect togather to Learn and Explore  !! :
   </a>&nbsp;&nbsp;
  </p>
  <p>
- <a href="G:\My Drive\RESUME\After OFS\Panchal Aditya Nileshbhai.pdf">Resume</a>
+ <a href="https://drive.google.com/file/d/1hxHuLQAC1qxW2Nfq_IFlFJwlNnC2qvwO/view?usp=drive_link">Resume</a>
 </p>
 
 <p><b>Things I have Worked and Proficient:</b></p>
