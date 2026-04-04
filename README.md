@@ -15,7 +15,9 @@
 I am a Software Developer who believes that technology is merely a tool; the real power lies in the intention (*Bhavana*) behind it. I do not just write software to fix bugs; don't make software that solves technical problems.
 I find real-world problems — and then use software to solve them.
 
-My philosophy on AI and technology is clear: **Let machines automate the mundane, so the human mind is free to create, innovate, and elevate.** ---
+My philosophy on AI and technology is clear: **Let machines automate the mundane, so the human mind is free to create, innovate, and elevate.** 
+
+---
 
 ## 🛡 Code of Conduct & Methodology
 
@@ -28,36 +30,33 @@ My philosophy on AI and technology is clear: **Let machines automate the mundane
 
  
 ## 🛠️ Tech Stack
- 
-### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
- 
-### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
- 
-### ⚙️ Backend
-!![.NET Framework](https://img.shields.io/badge/.NET%20Framework-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
- 
-### 🗄️ Databases
-![Microsoft SQL Server](https://img.shields.io/badge/SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
- 
-### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IIS](https://img.shields.io/badge/IIS-%230078D4.svg?style=for-the-badge&logo=microsoft&logoColor=white)
- 
+ ### 💻 Languages
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
+### 🎨 Frontend
+![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular)
+![jQuery](https://img.shields.io/badge/jQuery-131B28?style=for-the-badge&logo=jquery)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-712CF9?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### ⚙️ Backend
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel)
+![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
+
+### 🗄️ Databases
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql)
+
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman)
+![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ---
 
 ## 🚩 Seva & High-Impact Projects
