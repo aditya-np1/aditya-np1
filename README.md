@@ -28,14 +28,18 @@ My philosophy on AI and technology is clear: **Let machines automate the mundane
  
  ---
  ## 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-- **Programming Languages:** C &nbsp;·&nbsp; C# &nbsp;·&nbsp; Java &nbsp;·&nbsp; PHP &nbsp;·&nbsp; SQL &nbsp;·&nbsp; TypeScript
+- 💻 **Languages:** C &nbsp;·&nbsp; C# &nbsp;·&nbsp; Java &nbsp;·&nbsp; PHP &nbsp;·&nbsp; SQL &nbsp;·&nbsp; TypeScript
 
-- **Frameworks & Libraries:** Angular &nbsp;·&nbsp; ASP.NET &nbsp;·&nbsp; .NET Framework &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; jQuery &nbsp;·&nbsp; Bootstrap &nbsp;·&nbsp; AJAX
+- 🎨 **Frontend:** Angular &nbsp;·&nbsp; jQuery &nbsp;·&nbsp; Bootstrap &nbsp;·&nbsp; AJAX
 
-- **Databases:** Microsoft SQL Server &nbsp;·&nbsp; PhpMyAdmin
+- ⚙️ **Backend:** ASP.NET &nbsp;·&nbsp; .NET Framework &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; Node.js
 
-- **Tools & Platforms:** Git &nbsp;·&nbsp; SourceTree &nbsp;·&nbsp; Postman &nbsp;·&nbsp; IIS
+- 🗄️ **Databases:** Microsoft SQL Server &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; PhpMyAdmin
+
+- 🔧 **Tools & Platforms:** Git &nbsp;·&nbsp; SourceTree &nbsp;·&nbsp; Postman &nbsp;·&nbsp; IIS
+- 
 ---
 
 ## 🕉 Philosophy & Beyond the Screen
