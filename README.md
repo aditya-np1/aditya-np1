@@ -27,7 +27,7 @@ My philosophy on AI and technology is clear: **Let machines automate the mundane
 * **Real-World Impact:** Technical complexities are secondary; solving the actual human problem is primary.
  
  ---
- ## 🛠️ Tech Stack
+ 
 ## 🛠️ Tech Stack
 
 - 💻 **Languages:** C &nbsp;·&nbsp; C# &nbsp;·&nbsp; Java &nbsp;·&nbsp; PHP &nbsp;·&nbsp; SQL &nbsp;·&nbsp; TypeScript
