@@ -3,7 +3,7 @@
 #  Namaste! I'm Aditya Panchal 👨🏻‍💻
 ### Full-Stack Developer · Real-World Problem Solver · Creative Technologist
  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=I+don't+just+write+code+—+I+solve+problems;Building+systems+that+empower+communities;Researcher+%7C+Builder+%7C+Minimalist;Automation+over+manual+%7C+Purpose+over+polish)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=I+don't+just+write+code+—+I+solve+problems;Building+systems+that+empower+communities;Researcher+%7C+Builder+%7C+Minimalist;Automation+over+manual+%7C+Purpose+over+polish)]
  
 </div>
 
