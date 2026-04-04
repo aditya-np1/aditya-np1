@@ -25,38 +25,33 @@ My philosophy on AI and technology is clear: **Let machines automate the mundane
 * **Minimalist Execution:** I focus on writing clean, minimal, and optimized code that simply works. 
 * **Relentless Optimization:** I am driven by cutting down manual effort and bringing intelligent automation to existing processes.
 * **Real-World Impact:** Technical complexities are secondary; solving the actual human problem is primary.
- ---
+ 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-222222?&logo=csharp)
-![Java](https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![PHP](https://img.shields.io/badge/PHP-222222?style=flat-square&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-222222?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-222222?style=flat-square&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,js,php,python,mysql" />
+</p>
 
 ### 🎨 Frontend
-![Angular](https://img.shields.io/badge/Angular-222222?style=flat-square&logo=angular&logoColor=DD0031)
-![jQuery](https://img.shields.io/badge/jQuery-222222?style=flat-square&logo=jquery&logoColor=0769AD)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-222222?style=flat-square&logo=bootstrap&logoColor=712CF9)
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,jquery,bootstrap" />
+</p>
 
 ### ⚙️ Backend
-![.NET Framework](https://img.shields.io/badge/.NET%20Framework-222222?style=flat-square&logo=dotnet&logoColor=512BD4)
-![Laravel](https://img.shields.io/badge/Laravel-222222?style=flat-square&logo=laravel&logoColor=FF2D20)
-![Node.js](https://img.shields.io/badge/Node.js-222222?style=flat-square&logo=nodedotjs&logoColor=339933)
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,laravel,nodejs" />
+</p>
 
 ### 🗄️ Databases
-![SQL Server](https://img.shields.io/badge/SQL%20Server-222222?style=flat-square&logo=microsoftsqlserver&logoColor=CC2927)
-![MySQL](https://img.shields.io/badge/MySQL-222222?style=flat-square&logo=mysql&logoColor=4479A1)
+<p>
+  <img src="https://skillicons.dev/icons?i=mssql,mysql" />
+</p>
 
 ### 🔧 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-222222?style=flat-square&logo=git&logoColor=F05032)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-222222?style=flat-square&logo=visualstudio&logoColor=5C2D91)
-![Postman](https://img.shields.io/badge/Postman-222222?style=flat-square&logo=postman&logoColor=FF6C37)
-![IIS](https://img.shields.io/badge/IIS-222222?style=flat-square&logo=microsoft&logoColor=0078D4)
-
----
+<p>
+  <img src="https://skillicons.dev/icons?i=git,visualstudio,postman" />
+</p>
 
 ## 🕉 Philosophy & Beyond the Screen
 
