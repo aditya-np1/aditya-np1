@@ -29,7 +29,7 @@ My philosophy on AI and technology is clear: **Let machines automate the mundane
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-222222?style=flat-square&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-222222?&logo=csharp)
 ![Java](https://img.shields.io/badge/Java-222222?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-222222?style=flat-square&logo=javascript&logoColor=F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-222222?style=flat-square&logo=php&logoColor=white)
