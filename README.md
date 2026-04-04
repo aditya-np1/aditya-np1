@@ -7,6 +7,8 @@
  
 </div>
 
+![Profile Views](https://komarev.com/ghpvc/?username=aditya-np1&color=0e75b6&style=flat&label=Profile%20Views)
+
 
 > *"Sow an action, reap a habit; sow a habit, reap a character; sow a character, reap your destiny."*
 
@@ -41,7 +43,7 @@ My philosophy on AI and technology is clear: **Let machines automate the mundane
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
  
 ### ⚙️ Backend
-![.NET FrameWork ](https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+!![.NET Framework](https://img.shields.io/badge/.NET%20Framework-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
  
