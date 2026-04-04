@@ -26,32 +26,17 @@ My philosophy on AI and technology is clear: **Let machines automate the mundane
 * **Relentless Optimization:** I am driven by cutting down manual effort and bringing intelligent automation to existing processes.
 * **Real-World Impact:** Technical complexities are secondary; solving the actual human problem is primary.
  
-## 🛠️ Tech Stack
+ ---
+ ## 🛠️ Tech Stack
 
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,java,js,php,python,mysql" />
-</p>
+- **Programming Languages:** C &nbsp;·&nbsp; C# &nbsp;·&nbsp; Java &nbsp;·&nbsp; PHP &nbsp;·&nbsp; SQL &nbsp;·&nbsp; TypeScript
 
-### 🎨 Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=angular,jquery,bootstrap" />
-</p>
+- **Frameworks & Libraries:** Angular &nbsp;·&nbsp; ASP.NET &nbsp;·&nbsp; .NET Framework &nbsp;·&nbsp; Laravel &nbsp;·&nbsp; jQuery &nbsp;·&nbsp; Bootstrap &nbsp;·&nbsp; AJAX
 
-### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,laravel,nodejs" />
-</p>
+- **Databases:** Microsoft SQL Server &nbsp;·&nbsp; PhpMyAdmin
 
-### 🗄️ Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=mssql,mysql" />
-</p>
-
-### 🔧 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,visualstudio,postman" />
-</p>
+- **Tools & Platforms:** Git &nbsp;·&nbsp; SourceTree &nbsp;·&nbsp; Postman &nbsp;·&nbsp; IIS
+---
 
 ## 🕉 Philosophy & Beyond the Screen
 
