@@ -2,11 +2,6 @@
  
 #  Namaste! I'm Aditya Panchal 👨🏻‍💻
 ### Full-Stack Developer · Real-World Problem Solver · Creative Technologist
- 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00D9FF&center=true&vCenter=true&width=750&lines=I+don't+just+write+code+—+I+solve+problems;Building+systems+that+empower+communities;Researcher+%7C+Builder+%7C+Minimalist;Automation+over+manual+%7C+Purpose+over+polish" alt="Typing SVG" />
-</div>
- 
 </div>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aditya-np1&color=0e75b6&style=flat&label=Profile%20Views)
