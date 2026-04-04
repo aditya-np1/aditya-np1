@@ -27,16 +27,15 @@ My philosophy on AI and technology is clear: **Let machines automate the mundane
 * **Real-World Impact:** Technical complexities are secondary; solving the actual human problem is primary.
 
 ---
-
- 
 ## 🛠️ Tech Stack
- ### 💻 Languages
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### 💻 Languages
+![C Sharp](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge)
 
 ### 🎨 Frontend
 ![Angular](https://img.shields.io/badge/Angular-0F0F11?style=for-the-badge&logo=angular)
@@ -44,7 +43,7 @@ My philosophy on AI and technology is clear: **Let machines automate the mundane
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-712CF9?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 ### ⚙️ Backend
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET Framework](https://img.shields.io/badge/.NET%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel)
 ![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js)
 
@@ -56,17 +55,9 @@ My philosophy on AI and technology is clear: **Let machines automate the mundane
 ![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio)
 ![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman)
-![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
----
+![IIS](https://img.shields.io/badge/IIS-0078D4?style=for-the-badge)
 
-## 🚩 Seva & High-Impact Projects
-
-**Volunteer Developer | Pramukh Swami Maharaj Shatabdi Mahotsav**
-
-I had the privilege of serving as a developer for the Volunteers Information Handling App during this monumental global festival. 
-* Rapidly learned and implemented the **Laravel** framework for critical modules.
-* Collaborated seamlessly in a high-pressure, large-scale team environment to troubleshoot and deploy robust solutions.
-
+ 
 ---
 
 ## 🕉 Philosophy & Beyond the Screen
