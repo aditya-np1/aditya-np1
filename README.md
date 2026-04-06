@@ -36,7 +36,6 @@ My philosophy on AI and technology is clear: **Let machines automate the mundane
 - 🗄️ **Databases:** Microsoft SQL Server &nbsp;·&nbsp; MySQL &nbsp;·&nbsp; PhpMyAdmin
 
 - 🔧 **Tools & Platforms:** Git &nbsp;·&nbsp; SourceTree &nbsp;·&nbsp; Postman &nbsp;·&nbsp; IIS
-- 
 ---
 
 ## 🕉 Philosophy & Beyond the Screen
